@@ -1,4 +1,12 @@
 # depslib dependency file v1.0
-1584205420 source:c:\famontecillo\2022_itess_agodic_semestre\ti-302-mptd\cpp\2022-mptdalg\main.cpp
+1670439817 source:c:\famontecillo\2022_itess_agodic_semestre\ti-302-mptd\cpp\2022-mptdalg\main.cpp
+	<iostream>
+	"EOQ.hh"
+
+1670438566 c:\famontecillo\2022_itess_agodic_semestre\ti-302-mptd\cpp\2022-mptdalg\include\eoq.hh
+
+1670439834 source:c:\famontecillo\2022_itess_agodic_semestre\ti-302-mptd\cpp\2022-mptdalg\src\eoq.cpp
+	"EOQ.hh"
+	<cmath>
 	<iostream>
 

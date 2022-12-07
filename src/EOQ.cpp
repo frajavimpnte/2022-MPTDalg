@@ -47,7 +47,7 @@ float EOQ::getD()
 }
 float EOQ::solve()
 {
-    return sqrt( 2*k*d / h )
+    return sqrt( 2*k*d / h );
 }
 
 float EOQ::print()
